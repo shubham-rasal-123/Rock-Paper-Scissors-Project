@@ -6,14 +6,14 @@
 
 The object of the rock-paper-scissor python project is to build a game for a single player that plays with a computer, anywhere, and anytime. 
 This project is base on the rules that: 
-rock blunts scissors so rock wins. scissors cut the paper so scissors win. Use any Python online compiler of download python[here](https://www.python.org/downloads).
+rock blunts scissors so rock wins. scissors cut the paper so scissors win. Use any Python online compiler of download python [here](https://www.python.org/downloads).
 
 ### To be Played with a Computer.
 + You can enter the number of games you want to play.
 
 + There is also a score window which is displayed after every turn.
 
-##  How to run
+## 🌟 How to run
 
 ```
 python rock_paper_scissors.py
